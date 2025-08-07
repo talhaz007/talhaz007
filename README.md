@@ -117,8 +117,6 @@
 
 📧 **Email:** talhazafar0007@gmail.com
 
-🌐 **Portfolio:** [talhazafar.github.io](https://talhazafar.github.io)
-
 </div>
 
 <br><br>
