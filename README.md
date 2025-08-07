@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Building%2C+Learning%2C+and+Innovating.%22" alt="Typing SVG" />
 </h2>
 
-<h1 align="center">👋 Hey there, Talha Zafar here :octocat:</h1>
+<h1 align="center">Full-Stack Developer & AI Engineer</h1>
 
 <div align="center">
 
