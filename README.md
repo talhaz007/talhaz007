@@ -79,20 +79,6 @@
 
 ----
 
-<h2 align="left">📊 GitHub Analytics</h2>
-
-<br>
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=talhazafar&show_icons=true&theme=react&bg_color=003140" />
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhazafar&theme=react&bg_color=003140" />
-  <br><br>
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=talhazafar&theme=react&bg_color=003140" />
-</div>
-
-----
-
 <h2 align="left">🔥 GitHub Streak</h2>
 
 <br>
@@ -100,12 +86,6 @@
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talhazafar&theme=react&background=003140&fire=ec9528&ring=ec9528&stroke=ec9528" />
 </div>
-
-----
-
-<h2 align="left">🏆 Trophies</h2>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhazafar&theme=algolia&no-frame=true&margin-h=15&margin-w=15&column=8" alt="talhazafar" /></a> </p>
 
 ----
 
