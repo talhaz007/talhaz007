@@ -8,9 +8,8 @@
 
 <div align="center">
 
-[![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://talhazafar.github.io) 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talhazafar/)&nbsp;&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:talha.zafar@gmail.com)](mailto:talha.zafar@gmail.com)&nbsp;&nbsp;
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-zafar-21b458140)&nbsp;&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:talhazafar0007@gmail.com)](mailto:talhazafar0007@gmail.com)&nbsp;&nbsp;
 
 </div>
 
@@ -80,78 +79,6 @@
 
 ----
 
-<h2 align="left">📜 Portfolio Contents</h2>
-
-1. [Full-Stack Web Development](#full-stack-development)
-2. [AI Integration Projects](#ai-integration)
-3. [Mobile Applications](#mobile-apps)
-4. [Telegram Bot Development](#telegram-bots)
-5. [Database Management](#database)
-6. [Performance Optimization](#performance)
-7. [DevOps & CI/CD](#devops)
-
-**Projects with :star: are my personal favourites, so do check them out!**
-
-<a name="full-stack-development"></a>
-<h3 align="left">💻 Full-Stack Web Development</h3>
-
-| Title | Article | Repo |
-| --- | --- | --- |
-| **Modern E-commerce Platform** with React.js, Node.js & MongoDB | - | [:link:](https://github.com) |
-| **AI-Powered Dashboard** with Next.js and OpenAI Integration :star: | - | [:link:](https://github.com) |
-| **Real-time Chat Application** with Socket.io and React | - | [:link:](https://github.com) |
-
-<a name="ai-integration"></a>
-<h3 align="left">🤖 AI Integration Projects</h3>
-
-| Title | Article | Repo |
-| --- | --- | --- |
-| **LangChain-powered Document Analysis Tool** :star: | - | [:link:](https://github.com) |
-| **Claude API Integration** for Content Generation | - | [:link:](https://github.com) |
-| **AI Automation Workflows** with LangGraph | - | [:link:](https://github.com) |
-
-<a name="mobile-apps"></a>
-<h3 align="left">📱 Mobile Applications</h3>
-
-| Title | Article | Repo |
-| --- | --- | --- |
-| **Cross-platform App** with React Native | - | [:link:](https://github.com) |
-| **Progressive Web App** with Service Workers | - | [:link:](https://github.com) |
-
-<a name="telegram-bots"></a>
-<h3 align="left">🤖 Telegram Bot Development</h3>
-
-| Title | Article | Repo |
-| --- | --- | --- |
-| **AI-powered Telegram Bot** with OpenAI Integration | - | [:link:](https://github.com) |
-| **Telegram Web App** for E-commerce :star: | - | [:link:](https://github.com) |
-
-<a name="database"></a>
-<h3 align="left">🗄️ Database Management</h3>
-
-| Title | Article | Repo |
-| --- | --- | --- |
-| **MongoDB Atlas Cluster** Optimization & Scaling | - | [:link:](https://github.com) |
-| **PostgreSQL Performance** Tuning & Optimization | - | [:link:](https://github.com) |
-
-<a name="performance"></a>
-<h3 align="left">⚡ Performance Optimization</h3>
-
-| Title | Article | Repo |
-| --- | --- | --- |
-| **React Application** Performance Optimization | - | [:link:](https://github.com) |
-| **Next.js SEO & Core Web Vitals** Optimization | - | [:link:](https://github.com) |
-
-<a name="devops"></a>
-<h3 align="left">🚀 DevOps & CI/CD</h3>
-
-| Title | Article | Repo |
-| --- | --- | --- |
-| **Docker Containerization** for Full-Stack Apps | - | [:link:](https://github.com) |
-| **GitHub Actions** CI/CD Pipeline Setup | - | [:link:](https://github.com) |
-
-----
-
 <h2 align="left">📊 GitHub Analytics</h2>
 
 <br>
@@ -188,7 +115,7 @@
   
 💼 **Open for collaborations and exciting projects!**
 
-📧 **Email:** talha.zafar@gmail.com
+📧 **Email:** talhazafar0007@gmail.com
 
 🌐 **Portfolio:** [talhazafar.github.io](https://talhazafar.github.io)
 
