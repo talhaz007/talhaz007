@@ -23,11 +23,11 @@
 
 - Thanks for dropping by! I'm a passionate Full-Stack Developer and AI Integration Specialist, dedicated to building innovative web applications and integrating cutting-edge AI technologies. With expertise spanning from modern frontend frameworks to robust backend solutions, I craft scalable applications that solve real-world problems.
 
-- 🔭 Currently, I'm focused on developing AI-powered applications using OpenAI and Anthropic Claude APIs, building modern web solutions with React.js/Next.js, and creating seamless user experiences through responsive design and performance optimization.
+- Currently, I'm focused on developing AI-powered applications using OpenAI and Anthropic Claude APIs, building modern web solutions with React.js/Next.js, and creating seamless user experiences through responsive design and performance optimization.
 
-- 🌱 Always learning and expanding my skill set in AI/ML integrations, cloud technologies, and modern development practices. I'm eager to connect with fellow developers and tech enthusiasts to collaborate on exciting projects!
+- Always learning and expanding my skill set in AI/ML integrations, cloud technologies, and modern development practices. I'm eager to connect with fellow developers and tech enthusiasts to collaborate on exciting projects!
 
-- 📫 Connect with me on LinkedIn or explore my portfolio to see my latest projects and innovations. Let's build something amazing together!
+- Connect with me on LinkedIn or explore my portfolio to see my latest projects and innovations. Let's build something amazing together!
 
 <br>
 
