@@ -21,7 +21,7 @@
   <img src="https://komarev.com/ghpvc/?username=talhazafar&label=Profile%20Views&color=295564&style=flat&abbreviated=true" alt="talhazafar" /> 
 </p>
 
-- Thanks for dropping by! I'm a passionate Full-Stack Developer and AI Integration Specialist, dedicated to building innovative web applications and integrating cutting-edge AI technologies. With expertise spanning from modern frontend frameworks to robust backend solutions, I craft scalable applications that solve real-world problems.
+- Thanks for dropping by! I'm a passionate Full-Stack Developer and AI Integration Engineer, dedicated to building innovative web applications and integrating cutting-edge AI technologies. With expertise spanning from modern frontend frameworks to robust backend solutions, I craft scalable applications that solve real-world problems.
 
 - Currently, I'm focused on developing AI-powered applications using OpenAI and Anthropic Claude APIs, building modern web solutions with React.js/Next.js, and creating seamless user experiences through responsive design and performance optimization.
 
