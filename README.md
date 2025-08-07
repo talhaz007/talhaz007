@@ -79,6 +79,22 @@
 
 ----
 
+<h2 align="left">💼 Professional Experience</h2>
+
+### 🌟 Upwork Top Rated Freelancer
+- **50+ Successfully Completed Projects** with 98% client satisfaction rate
+- **$100K+ Total Earnings** across various web development and AI integration projects
+- **Specializations:** Full-Stack Development, AI-Powered Applications, SaaS Solutions
+- **Average Project Rating:** 4.9/5.0 ⭐
+- **Response Time:** Within 1 hour during business hours
+- **Key Achievements:**
+  - Built custom AI chatbots and automation tools for 15+ businesses
+  - Developed and deployed scalable web applications serving 10K+ users
+  - Integrated complex APIs and third-party services for enterprise clients
+  - Delivered projects ranging from $500 to $15,000+ in value
+
+----
+
 <h2 align="left">🔥 GitHub Streak</h2>
 
 <br>
