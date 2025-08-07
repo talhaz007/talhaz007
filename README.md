@@ -10,6 +10,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-zafar-21b458140)&nbsp;&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:talhazafar0007@gmail.com)](mailto:talhazafar0007@gmail.com)&nbsp;&nbsp;
+[![Upwork Badge](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01234567890abcdef)
 
 </div>
 
@@ -76,22 +77,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
-
-----
-
-<h2 align="left">💼 Professional Experience</h2>
-
-### 🌟 Upwork Top Rated Freelancer
-- **50+ Successfully Completed Projects** with 98% client satisfaction rate
-- **$100K+ Total Earnings** across various web development and AI integration projects
-- **Specializations:** Full-Stack Development, AI-Powered Applications, SaaS Solutions
-- **Average Project Rating:** 4.9/5.0 ⭐
-- **Response Time:** Within 1 hour during business hours
-- **Key Achievements:**
-  - Built custom AI chatbots and automation tools for 15+ businesses
-  - Developed and deployed scalable web applications serving 10K+ users
-  - Integrated complex APIs and third-party services for enterprise clients
-  - Delivered projects ranging from $500 to $15,000+ in value
 
 ----
 
