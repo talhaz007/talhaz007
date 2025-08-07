@@ -10,7 +10,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-zafar-21b458140)&nbsp;&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:talhazafar0007@gmail.com)](mailto:talhazafar0007@gmail.com)&nbsp;&nbsp;
-[![Upwork Badge](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01234567890abcdef)
+[![Upwork Badge](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b0264e09c17869bd?referrer_url_path=%2Fnx%2Fsearch%2Ftalent%2Fdetails%2F~01b0264e09c17869bd%2Fprofile)
 
 </div>
 
